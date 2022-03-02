@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdullahMutahir
 - 👀 I’m interested in web development and intenet applications
-- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,PYTHON,PHR,C#
+- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,PYTHON,PHP,C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
